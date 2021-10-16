@@ -1,4 +1,5 @@
 #home down payment code:
+
 price=10**6
 ten_down=price*0.10
 twenty_down=price*0.20
